@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TopRated">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="TopRated.jar">
+      <element id="module-output" name="TopRated" />
+      <element id="extracted-dir" path="$USER_HOME$/hadoop-3.2.1/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/hadoop-3.2.1/share/hadoop/common/hadoop-common-3.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
